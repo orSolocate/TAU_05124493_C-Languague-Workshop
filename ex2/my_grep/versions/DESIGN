@@ -1,0 +1,5 @@
+InputParser - Parses flags, file name and input string entered by user in command line as input.
+
+MatchAndPrintScannedLine- Matches input string to lines scanned from a file or stdin and prints lines according to input flags.
+
+RegularExpressions - Defines and parses regular expressions.
